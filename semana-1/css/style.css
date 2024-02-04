@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    font-family: helvetica;
+    color: white;
+}
+
+h1{
+    font-size: 24px;
+}
+
+h2 {
+    color:hsl(75, 94%, 57%);
+    font-size: 14px;
+}
+
+p{
+    font-size: 14px;
+}
